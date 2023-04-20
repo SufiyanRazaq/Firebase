@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "22718524512",
+    "project_id": "addnote-76856",
+    "storage_bucket": "addnote-76856.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22718524512:android:608f2d4814df15dd95a705",
+        "android_client_info": {
+          "package_name": "com.android.mynotescoursemain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22718524512-tbiloljqlsbg6sud5vafv5ud7ds0iipn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo8QJkj87LKqqw4Ywc0vCaLY3SrAew5TY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22718524512-tbiloljqlsbg6sud5vafv5ud7ds0iipn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "22718524512-62t8tapvi61m090dhi0vtm04ao9bftv6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "se.pixolity.mynotes"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22718524512:android:8beff3773dafea8e95a705",
+        "android_client_info": {
+          "package_name": "se.pixolity.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22718524512-tbiloljqlsbg6sud5vafv5ud7ds0iipn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo8QJkj87LKqqw4Ywc0vCaLY3SrAew5TY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22718524512-tbiloljqlsbg6sud5vafv5ud7ds0iipn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "22718524512-62t8tapvi61m090dhi0vtm04ao9bftv6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "se.pixolity.mynotes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
